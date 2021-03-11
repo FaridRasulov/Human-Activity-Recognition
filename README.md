@@ -1,6 +1,10 @@
 # Human_Activity_Recognition
 Recognition of human activity based on the data obtained from the sensors of the smartphone
 
+# CLICK HERE TO SEE THE NOTEBOOK: 
+
+https://nbviewer.jupyter.org/github/FaridRasulov/Human-Activity-Recognition/blob/master/Human-activity-recognition.ipynb
+
 ## Data collection & source(s)
 
 ### Activities:
